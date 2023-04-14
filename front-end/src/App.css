@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav-name {
+  font-size: 30px;
+  cursor: default;
+}
+
+.nav-link {
+  margin-left: 50px;
+  font-size: 18px;
+  text-decoration: none;
+  color: grey;
+  padding-top: 10px;
+}
+
+.nav-link:hover {
+  color: lightblue;
+  cursor: pointer;
+}
